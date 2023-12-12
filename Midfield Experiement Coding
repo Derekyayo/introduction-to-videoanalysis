@@ -1,0 +1,90 @@
+<file>
+  <ALL_INSTANCES>
+    <instance>
+      <ID>1</ID>
+      <start>23.262</start>
+      <end>33.054</end>
+      <code>Defensive Mindness</code>
+    </instance>
+    <instance>
+      <ID>2</ID>
+      <start>33.154</start>
+      <end>33.654</end>
+      <code>Defensive Mindness</code>
+    </instance>
+    <instance>
+      <ID>3</ID>
+      <start>33.754000000000005</start>
+      <end>34.254000000000005</end>
+      <code>Defensive Mindness</code>
+    </instance>
+    <instance>
+      <ID>4</ID>
+      <start>77.046</start>
+      <end>81.421</end>
+      <code>Defensive Mindness</code>
+    </instance>
+    <instance>
+      <ID>5</ID>
+      <start>86.36</start>
+      <end>89.653</end>
+      <code>Defensive Mindness</code>
+    </instance>
+    <instance>
+      <ID>6</ID>
+      <start>104.727</start>
+      <end>109.028</end>
+      <code>Attacking Transition</code>
+    </instance>
+    <instance>
+      <ID>7</ID>
+      <start>109.128</start>
+      <end>109.714</end>
+      <code>Attacking Transition</code>
+    </instance>
+    <instance>
+      <ID>8</ID>
+      <start>107.714</start>
+      <end>112.317</end>
+      <code>Defensive Trans</code>
+    </instance>
+  </ALL_INSTANCES>
+  <ROWS>
+    <row>
+      <code>Defense</code>
+      <R>56540</R>
+      <G>13107</G>
+      <B>8738</B>
+    </row>
+    <row>
+      <code>Defensive Trans</code>
+      <R>56540</R>
+      <G>13107</G>
+      <B>8738</B>
+    </row>
+    <row>
+      <code>Goals</code>
+      <R>23644</R>
+      <G>48316</G>
+      <B>10794</B>
+    </row>
+    <row>
+      <code>Attacking Transition</code>
+      <R>23644</R>
+      <G>48316</G>
+      <B>10794</B>
+    </row>
+    <row>
+      <code>Defensive Mindness</code>
+      <R>56540</R>
+      <G>13107</G>
+      <B>8738</B>
+    </row>
+    <row>
+      <code>Chances</code>
+      <R>23644</R>
+      <G>48316</G>
+      <B>10794</B>
+    </row>
+  </ROWS>
+</file>
